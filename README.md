@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Kavya Amballa! <br>
 
-<!--
-**AmKavya/AmKavya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Graduate from SNDT Women's University <br>
+🌱 Currently learning: Data science with ai & ml <br>
+📍 Based in Mumbai, India <br> 
+✨ Exploring the world of data, code, and tech one step at a time! <br>
 
-Here are some ideas to get you started:
+--- <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me: <br>
+- A curious learner stepping into the IT world <br>
+- Building my foundation in data analysis, tech and problem-solving <br>
+- Passionate about turning small ideas into real projects as I grow <br>
+
+
+### 📫 Let’s Connect: <br>
+- [LinkedIn](www.linkedin.com/in/kavya-amballa-83a573249)
+
