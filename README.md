@@ -14,7 +14,8 @@
 
 
 ### 📫 Let’s Connect: <br>
-- [LinkedIn](www.linkedin.com/in/kavya-amballa-83a573249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kavya-amballa-83a573249)
+
 
 
 # 💻 Tech Stack:
