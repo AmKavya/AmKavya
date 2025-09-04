@@ -46,7 +46,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmKavya&theme=radical" alt=" Kavya's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmKavya&theme=radical" alt="Kavya's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=AmKavya&show_icons=true&theme=radical" alt=" GitHub Stats" />
 </p>
 
